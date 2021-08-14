@@ -1,0 +1,157 @@
+@font-face {
+  font-family: "iconfont"; /* Project id  */
+  src: url('iconfont.ttf?t=1628591778169') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-xinxihuan00:before {
+  content: "\e6fc";
+}
+
+.icon-yinlemusic217:before {
+  content: "\e62c";
+}
+
+.icon-swticonyinle2:before {
+  content: "\e614";
+}
+
+.icon-shipin:before {
+  content: "\e637";
+}
+
+.icon-icon-:before {
+  content: "\e642";
+}
+
+.icon-icon--:before {
+  content: "\e774";
+}
+
+.icon-pengyou:before {
+  content: "\e7e4";
+}
+
+.icon-bofang:before {
+  content: "\e634";
+}
+
+.icon-xingxing:before {
+  content: "\e859";
+}
+
+.icon-yun:before {
+  content: "\e6cf";
+}
+
+.icon-shousuo:before {
+  content: "\e668";
+}
+
+.icon-huaban:before {
+  content: "\e60d";
+}
+
+.icon-pifu:before {
+  content: "\e64c";
+}
+
+.icon-geciweidianji:before {
+  content: "\e727";
+}
+
+.icon-arrow-right:before {
+  content: "\e665";
+}
+
+.icon-add-bold:before {
+  content: "\e685";
+}
+
+.icon-arrow-left-bold:before {
+  content: "\e686";
+}
+
+.icon-arrow-right-filling:before {
+  content: "\e688";
+}
+
+.icon-xinhao:before {
+  content: "\e71f";
+}
+
+.icon-file-copy-line:before {
+  content: "\e767";
+}
+
+.icon-volume:before {
+  content: "\e652";
+}
+
+.icon-lishibofang:before {
+  content: "\e692";
+}
+
+.icon-xiazai:before {
+  content: "\e61a";
+}
+
+.icon-sousuo:before {
+  content: "\e609";
+}
+
+.icon-quanping:before {
+  content: "\e63c";
+}
+
+.icon-guanbi:before {
+  content: "\e783";
+}
+
+.icon-play-list-2-fill:before {
+  content: "\e7eb";
+}
+
+.icon-play-circle-fill:before {
+  content: "\e7ec";
+}
+
+.icon-repeat-2-line:before {
+  content: "\e7ed";
+}
+
+.icon-skip-back-fill:before {
+  content: "\e7ef";
+}
+
+.icon-skip-forward-fill:before {
+  content: "\e7f0";
+}
+
+.icon-volume-down-line:before {
+  content: "\e7f5";
+}
+
+.icon-external-link-line:before {
+  content: "\e80f";
+}
+
+.icon-settings-3-line:before {
+  content: "\e81c";
+}
+
+.icon-user:before {
+  content: "\e56b";
+}
+
+.icon-mail:before {
+  content: "\e63d";
+}
+

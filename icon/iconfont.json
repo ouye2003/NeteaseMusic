@@ -1,0 +1,261 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "364315",
+      "name": "心 喜欢00",
+      "font_class": "xinxihuan00",
+      "unicode": "e6fc",
+      "unicode_decimal": 59132
+    },
+    {
+      "icon_id": "775346",
+      "name": "音乐_music217",
+      "font_class": "yinlemusic217",
+      "unicode": "e62c",
+      "unicode_decimal": 58924
+    },
+    {
+      "icon_id": "1119574",
+      "name": "swt-icon-音乐 (2)",
+      "font_class": "swticonyinle2",
+      "unicode": "e614",
+      "unicode_decimal": 58900
+    },
+    {
+      "icon_id": "1167280",
+      "name": "视频",
+      "font_class": "shipin",
+      "unicode": "e637",
+      "unicode_decimal": 58935
+    },
+    {
+      "icon_id": "2767695",
+      "name": "音乐推荐",
+      "font_class": "icon-",
+      "unicode": "e642",
+      "unicode_decimal": 58946
+    },
+    {
+      "icon_id": "3216207",
+      "name": "播放",
+      "font_class": "icon--",
+      "unicode": "e774",
+      "unicode_decimal": 59252
+    },
+    {
+      "icon_id": "3783700",
+      "name": "朋友",
+      "font_class": "pengyou",
+      "unicode": "e7e4",
+      "unicode_decimal": 59364
+    },
+    {
+      "icon_id": "7315895",
+      "name": "播放",
+      "font_class": "bofang",
+      "unicode": "e634",
+      "unicode_decimal": 58932
+    },
+    {
+      "icon_id": "8288894",
+      "name": "星星",
+      "font_class": "xingxing",
+      "unicode": "e859",
+      "unicode_decimal": 59481
+    },
+    {
+      "icon_id": "8361846",
+      "name": "云",
+      "font_class": "yun",
+      "unicode": "e6cf",
+      "unicode_decimal": 59087
+    },
+    {
+      "icon_id": "8412139",
+      "name": "收缩",
+      "font_class": "shousuo",
+      "unicode": "e668",
+      "unicode_decimal": 58984
+    },
+    {
+      "icon_id": "8423784",
+      "name": "心跳心动",
+      "font_class": "huaban",
+      "unicode": "e60d",
+      "unicode_decimal": 58893
+    },
+    {
+      "icon_id": "8712657",
+      "name": "皮肤",
+      "font_class": "pifu",
+      "unicode": "e64c",
+      "unicode_decimal": 58956
+    },
+    {
+      "icon_id": "13137519",
+      "name": "歌词未点击",
+      "font_class": "geciweidianji",
+      "unicode": "e727",
+      "unicode_decimal": 59175
+    },
+    {
+      "icon_id": "15838431",
+      "name": "arrow-right",
+      "font_class": "arrow-right",
+      "unicode": "e665",
+      "unicode_decimal": 58981
+    },
+    {
+      "icon_id": "15838560",
+      "name": "add-bold",
+      "font_class": "add-bold",
+      "unicode": "e685",
+      "unicode_decimal": 59013
+    },
+    {
+      "icon_id": "15838561",
+      "name": "arrow-left-bold",
+      "font_class": "arrow-left-bold",
+      "unicode": "e686",
+      "unicode_decimal": 59014
+    },
+    {
+      "icon_id": "15838584",
+      "name": "arrow-right-filling",
+      "font_class": "arrow-right-filling",
+      "unicode": "e688",
+      "unicode_decimal": 59016
+    },
+    {
+      "icon_id": "16840420",
+      "name": "信号",
+      "font_class": "xinhao",
+      "unicode": "e71f",
+      "unicode_decimal": 59167
+    },
+    {
+      "icon_id": "17103522",
+      "name": "file-copy-line",
+      "font_class": "file-copy-line",
+      "unicode": "e767",
+      "unicode_decimal": 59239
+    },
+    {
+      "icon_id": "18077562",
+      "name": "喇叭",
+      "font_class": "volume",
+      "unicode": "e652",
+      "unicode_decimal": 58962
+    },
+    {
+      "icon_id": "18939010",
+      "name": "历史播放",
+      "font_class": "lishibofang",
+      "unicode": "e692",
+      "unicode_decimal": 59026
+    },
+    {
+      "icon_id": "20104530",
+      "name": "下载",
+      "font_class": "xiazai",
+      "unicode": "e61a",
+      "unicode_decimal": 58906
+    },
+    {
+      "icon_id": "22334203",
+      "name": "搜索",
+      "font_class": "sousuo",
+      "unicode": "e609",
+      "unicode_decimal": 58889
+    },
+    {
+      "icon_id": "22609347",
+      "name": "全屏",
+      "font_class": "quanping",
+      "unicode": "e63c",
+      "unicode_decimal": 58940
+    },
+    {
+      "icon_id": "22727557",
+      "name": "guanbi ",
+      "font_class": "guanbi",
+      "unicode": "e783",
+      "unicode_decimal": 59267
+    },
+    {
+      "icon_id": "23180191",
+      "name": "play-list-2-fill",
+      "font_class": "play-list-2-fill",
+      "unicode": "e7eb",
+      "unicode_decimal": 59371
+    },
+    {
+      "icon_id": "23180195",
+      "name": "play-circle-fill",
+      "font_class": "play-circle-fill",
+      "unicode": "e7ec",
+      "unicode_decimal": 59372
+    },
+    {
+      "icon_id": "23180203",
+      "name": "repeat-2-line",
+      "font_class": "repeat-2-line",
+      "unicode": "e7ed",
+      "unicode_decimal": 59373
+    },
+    {
+      "icon_id": "23180218",
+      "name": "skip-back-fill",
+      "font_class": "skip-back-fill",
+      "unicode": "e7ef",
+      "unicode_decimal": 59375
+    },
+    {
+      "icon_id": "23180227",
+      "name": "skip-forward-fill",
+      "font_class": "skip-forward-fill",
+      "unicode": "e7f0",
+      "unicode_decimal": 59376
+    },
+    {
+      "icon_id": "23180265",
+      "name": "volume-down-line",
+      "font_class": "volume-down-line",
+      "unicode": "e7f5",
+      "unicode_decimal": 59381
+    },
+    {
+      "icon_id": "23180508",
+      "name": "external-link-line",
+      "font_class": "external-link-line",
+      "unicode": "e80f",
+      "unicode_decimal": 59407
+    },
+    {
+      "icon_id": "23180617",
+      "name": "settings-3-line",
+      "font_class": "settings-3-line",
+      "unicode": "e81c",
+      "unicode_decimal": 59420
+    },
+    {
+      "icon_id": "23220122",
+      "name": "user",
+      "font_class": "user",
+      "unicode": "e56b",
+      "unicode_decimal": 58731
+    },
+    {
+      "icon_id": "23225147",
+      "name": "mail",
+      "font_class": "mail",
+      "unicode": "e63d",
+      "unicode_decimal": 58941
+    }
+  ]
+}
